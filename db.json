@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "catgory": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "Very nice",
+      "date": "2023-07-11T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "catgory": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "dsfa",
+      "date": "2023-07-11T18:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "catgory": "Fruits",
+      "freshness": "Second Hand",
+      "price": 100,
+      "comment": "This is not fresh",
+      "date": "2023-07-03T18:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mango",
+      "catgory": "Fruits",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "dahfkjdh",
+      "date": "2023-07-03T18:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Apple",
+      "catgory": "Fruits",
+      "date": "2023-07-03T18:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "This is fresh food",
+      "id": 5
+    },
+    {
+      "productName": "Mango",
+      "catgory": "Fruits",
+      "date": "2023-07-03T18:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "dsafdf",
+      "id": 6
+    },
+    {
+      "productName": "Orange",
+      "catgory": "Fruits",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "very good",
+      "date": "2023-07-03T18:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
